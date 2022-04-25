@@ -1,4 +1,4 @@
-# **Work Day Scheduler | Palm Pilot v2**
+# **Work Day Scheduler
 
 ## **App URL**
 
