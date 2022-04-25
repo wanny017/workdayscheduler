@@ -2,7 +2,7 @@
 
 ## **App URL**
 
-https://frygit87.github.io/Palm_Pilot_v2/
+https://wanny017.github.io/workdayscheduler/
 
 ## **Goals**
 
